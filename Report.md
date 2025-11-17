@@ -127,7 +127,6 @@ Prompts, responses, timestamps, and model identifiers stored in results/.
 ---
 
 # 6. Limitations
-- Simulated Claude outputs, though realistic, may differ from real Claude.  
 - Small sample size (6 prompts × 2 models × 4 runs).  
 - Single dataset domain (sports analytics).  
 - Sentiment tools may not perfectly capture subtle tone variations.
